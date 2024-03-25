@@ -20,9 +20,13 @@ Architecture:
 ![image](https://github.com/bablukhaja14/AWS-Serverless-URL-SHORTEN-BOT/assets/82576550/302a8256-9691-4ef6-a303-6fffe38a7b67)
 
 
-Bot Link:https://t.me/awsprojectbot
+
 
 
 Architectural Flow:
 
 If the user Enters a very long URL then you need to return a very short URL, you can use this specific CleanUri API. You would call this API using Python code that is running in Lambda, then shorten the user-shared URL. Once you receive the response, you would push it from Lambda to our Telegram server, where the user could obtain the short format of the URL.
+
+
+
+Bot Link:https://t.me/awsprojectbot
