@@ -20,6 +20,8 @@ Architecture:
 ![image](https://github.com/bablukhaja14/AWS-Serverless-URL-SHORTEN-BOT/assets/82576550/302a8256-9691-4ef6-a303-6fffe38a7b67)
 
 
+Bot Link:https://t.me/awsprojectbot
+
 
 Architectural Flow:
 
